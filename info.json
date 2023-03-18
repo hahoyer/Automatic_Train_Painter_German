@@ -1,7 +1,10 @@
 {
     "name": "Automatic_Train_Painter_German",
     "author": "hahoyer",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "factorio_version": "1.1",
-    "title": "Alternative German translations for Automatic_Train_Painter mod"
+    "title": "Alternative German translations for Automatic_Train_Painter mod",
+    "dependencies": [
+        "Automatic_Train_Painter >= 1.1.5"
+    ]
 }
